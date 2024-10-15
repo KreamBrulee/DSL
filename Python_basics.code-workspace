@@ -1,0 +1,23 @@
+{
+	"folders": [
+		{
+			"path": "../../VS_codes/Python_basics"
+		},
+		{
+			"path": "../../VS_codes/Cpp_shit"
+		},
+		{
+			"path": "."
+		},
+		{
+			"path": "../DEVL/asignments"
+		},
+		{
+			"path": "../../Neural_dataset"
+		},
+		{
+			"path": "../../VS_codes/Asmembly"
+		}
+	],
+	"settings": {}
+}
